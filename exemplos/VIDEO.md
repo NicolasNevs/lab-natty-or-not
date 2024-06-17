@@ -11,11 +11,11 @@ Este vídeo de 1 minuto apresenta uma história comovente.
 - Software **[Capcut](https://www.capcut.com/)** para edição de vídeo.
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para me ajudar a criar uma história, usei a Ia do Vidnoz para tornar meu texto em voz, posteriormente usei o Canva e o Capcut para finalizar o vídeo.
+Usei o ChatGPT para me ajudar a criar uma história, usei a Ia do Vidnoz para tornar meu texto em voz, posteriormente usei o Canva e o Capcut para finalizar o vídeo.
 ## 🚀 Resultados
 Um vídeo simples porpem bem feito.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://youtu.be/yy8C4dbqZ5k)
 
 ## 💭 Reflexão
 Este projeto foi uma ótima experiência em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e visuais cativantes.
