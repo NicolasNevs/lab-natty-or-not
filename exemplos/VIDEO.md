@@ -1,20 +1,21 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Vídeo: A fada e feiticeiro 🎥
 
 ## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+Este vídeo de 1 minuto apresenta uma história comovente.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
+- IA Generativa **[Vidnoz AI](https://aiapp-pt.vidnoz.com/)** para sintetização de voz;
+- IA Generativa **[Leonardo AI](https://app.leonardo.ai/)** para criação do GIF usado;
+- Software **[Canva](https://www.canva.com/)** para edição da thumbnail do vídeo;
+- Software **[Capcut](https://www.capcut.com/)** para edição de vídeo.
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
-
+Usei o "ChatGPT" para me ajudar a criar uma história, usei a Ia do Vidnoz para tornar meu texto em voz, posteriormente usei o Canva e o Capcut para finalizar o vídeo.
 ## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+Um vídeo simples porpem bem feito.
 
 [LINK PARA O VÍDEO AQUI]()
 
 ## 💭 Reflexão
-Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
+Este projeto foi uma ótima experiência em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e visuais cativantes.
